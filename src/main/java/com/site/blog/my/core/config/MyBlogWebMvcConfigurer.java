@@ -1,4 +1,5 @@
 package com.site.blog.my.core.config;
+// test
 
 import com.site.blog.my.core.interceptor.AdminLoginInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
